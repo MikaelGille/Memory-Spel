@@ -11,3 +11,11 @@ Under projektets gång fördes en loggbok för att följa utvecklingen av projek
 - Dynamisk bildhantering. Bilder hämtas från en array, blandas i slumpmässig ordning vid start och vänder vid klick
 - Spelet räknar antal försök till matchningar
 - Knapp för att starta om spelet med nya slumpmässiga bilder
+<br>
+
+## Syfte med projektet
+
+- Utveckla grundläggande färdigheter i JavaScript
+- Förstå interaktiv webbdesign
+- Skapa ett fungerande memoryspel
+- Följa och dokumentera utvecklingsprocessen
